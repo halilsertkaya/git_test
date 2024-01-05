@@ -1,2 +1,3 @@
 # git_test
-An another repo study.
+An another push from xubuntu platform. 
+Hello! :)
